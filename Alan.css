@@ -1,0 +1,32 @@
+table{
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="button"]{
+    width: 100%;
+    padding: 20px 40px;
+    background-color: lightblue;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="text"]{
+    padding: 20px 30px;
+    font-size: 25px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+body{
+    background-image: url(ilaw.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 110px;
+}
